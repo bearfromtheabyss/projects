@@ -1,0 +1,32 @@
+<a href="/weather_forecast/#/">Back to Search</a>
+<hr/>
+<strong>Forecast for {{city}}</strong>
+<br/>
+<hr/>
+<div class="row">
+	
+	<div class="col-md-6">
+	<div class="form-group">
+		Options:<br/><br/>
+		<div class="col-sm-2">
+			<label>Days:</label>
+		</div>
+		<div class="col-sm-4">
+			<input type="number" ng-model="count" class="form-control bfh-number"/>
+		</div>
+		<div class="col-sm-4">
+			<a href="#/forecast/{{count}}" class="btn btn-primary">Show results</a>
+		</div>
+	</div>
+	</div>
+</div>
+
+<hr/>
+<div ng-repeat="w in weatherResult.list">
+		<div class="col-sm-3">
+			<weather-report weather-day="w" convert-to-standard="convertToCelcius(dayTemp)" convert-to-date="convertToDate(dt)" date-format="d.MM.yyyy H:mm" check-if-zero="checkIfPositive(val)">
+			</weather-report>
+		</div>
+</div>
+
+<br/>

@@ -1,0 +1,24 @@
+<div class="row">
+	<div class="col-md-12">
+	<h2> Results for {{ip}} </h2>
+		<h3> Country: {{geoResult.country_name}} </h3>
+		 <div class="col-md-6">
+			 <p>City: {{geoResult.city}} </p>
+			 <p>IP: {{geoResult.ip}} </p>
+			 <p>Lat: {{geoResult.latitude}} </p>
+			 <p>Lon: {{geoResult.longitude}} </p>
+			 <a href="#/" class="btn btn-primary">Go Back</a><br>
+		 </div>
+		 <div class="col-md-6">
+			 <p>Metro Code: {{geoResult.metro_code}} </p>
+			 <p>Region Name: {{geoResult.region_name}} </p>
+			 <p>Time Zone: {{geoResult.time_zone}} </p>
+			 <p>Zip Code: {{geoResult.zip_code}} </p>
+
+		 </div>
+		<ng-map id="map" center="[{{geoResult.latitude}}, {{geoResult.longitude}}]" zoom="15">
+			<marker position="[{{geoResult.latitude}}, {{geoResult.longitude}}]">
+			</marker>
+		</ng-map>
+	</div>
+</div>

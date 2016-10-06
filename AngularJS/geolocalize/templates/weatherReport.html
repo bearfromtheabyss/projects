@@ -1,0 +1,17 @@
+
+<div class="thumbnail">
+	<div class="caption">
+		<h3 class="panel-title">
+		<strong>Day: {{convertToDate({ dt: weatherDay.dt }) | date: dateFormat}}</strong>
+		</h3><br>
+		<center><p>{{weatherDay.weather.description}}</p></center>
+		<p>Daytime temperature: {{convertToStandard({dayTemp: weatherDay.temp.day})}} &deg;C</p>
+		<p>Max. temperature: {{convertToStandard({dayTemp: weatherDay.temp.max})}} &deg;C</p>
+		<p>Min. temperature: {{convertToStandard({dayTemp: weatherDay.temp.min})}} &deg;C</p>
+		<p>Pressure: {{weatherDay.pressure}} hPa</p>
+		<hr/>
+		<p>Rain: {{checkIfZero({val: weatherDay.rain})}}mm</p>
+		<p>Humidity: {{weatherDay.humidity}} %</p>
+		<p>Clouds:  {{weatherDay.clouds}} %</p>
+
+</div>

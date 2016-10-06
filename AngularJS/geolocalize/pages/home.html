@@ -1,0 +1,10 @@
+
+<h2>Your position: </h2>
+<label>Latitude:</label><input type="number" ng-model="lati">
+<label>Longitude:</label><input type="number" ng-model="lngt">
+<ng-map id="map" center="[{{lati}}, {{lngt}}]" zoom="15">
+	<marker position="[{{lati}}, {{lngt}}]"></marker>
+	<control name="overviewMap" opened="true" /></control>
+</ng-map>
+<h3>Advanced search by domain name or IP address</h3>
+<label>enter ip address:&nbsp; </label><input type="text" ng-model="ip">&nbsp;&nbsp;<a href="#/result.html" class="btn btn-primary">Get data</a>
