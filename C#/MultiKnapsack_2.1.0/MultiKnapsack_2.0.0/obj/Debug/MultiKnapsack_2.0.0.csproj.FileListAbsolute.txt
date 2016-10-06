@@ -1,0 +1,1 @@
+c:\users\michał\documents\visual studio 2015\Projects\MultiKnapsack_2.0.0\MultiKnapsack_2.0.0\bin\Debug\MultiKnapsack_2.0.0.exe.config

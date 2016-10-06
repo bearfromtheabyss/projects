@@ -1,0 +1,46 @@
+c:\users\michał\documents\visual studio 2015\Projects\MultiKnapsack_2.0.0\MultiKnapsack_2.0.0\bin\Debug\MultiKnapsack.exe.config
+c:\users\michał\documents\visual studio 2015\Projects\MultiKnapsack_2.0.0\MultiKnapsack_2.0.0\obj\Debug\MultiKnapsack.csprojResolveAssemblyReference.cache
+c:\users\michał\documents\visual studio 2015\Projects\MultiKnapsack_2.0.0\MultiKnapsack_2.0.0\obj\Debug\MultiKnapsack.Properties.Resources.resources
+c:\users\michał\documents\visual studio 2015\Projects\MultiKnapsack_2.0.0\MultiKnapsack_2.0.0\obj\Debug\MultiKnapsack.csproj.GenerateResource.Cache
+c:\users\michał\documents\visual studio 2015\Projects\MultiKnapsack_2.0.0\MultiKnapsack_2.0.0\bin\Debug\MultiKnapsack.exe
+c:\users\michał\documents\visual studio 2015\Projects\MultiKnapsack_2.0.0\MultiKnapsack_2.0.0\bin\Debug\MultiKnapsack.pdb
+c:\users\michał\documents\visual studio 2015\Projects\MultiKnapsack_2.0.0\MultiKnapsack_2.0.0\obj\Debug\MultiKnapsack.exe
+c:\users\michał\documents\visual studio 2015\Projects\MultiKnapsack_2.0.0\MultiKnapsack_2.0.0\obj\Debug\MultiKnapsack.pdb
+c:\users\michał\documents\visual studio 2015\Projects\MultiKnapsack_2.0.0\MultiKnapsack_2.0.0\obj\Debug\MultiKnapsack.Form1.resources
+C:\Users\Michał\documents\visual studio 2015\Projects\MultiKnapsack_2.0.0\MultiKnapsack_2.0.0\obj\Debug\MultiKnapsack.Form2.resources
+C:\Users\Michał\documents\visual studio 2015\Projects\MultiKnapsack_2.0.0\MultiKnapsack_2.0.0\obj\Debug\MultiKnapsack.Form3.resources
+C:\Users\Michał\documents\visual studio 2015\Projects\MultiKnapsack_2.0.0\MultiKnapsack_2.0.0\bin\Debug\MultiKnapsack.exe.manifest
+C:\Users\Michał\documents\visual studio 2015\Projects\MultiKnapsack_2.0.0\MultiKnapsack_2.0.0\bin\Debug\MultiKnapsack.application
+C:\Users\Michał\documents\visual studio 2015\Projects\MultiKnapsack_2.0.0\MultiKnapsack_2.0.0\obj\Debug\MultiKnapsack.exe.manifest
+C:\Users\Michał\documents\visual studio 2015\Projects\MultiKnapsack_2.0.0\MultiKnapsack_2.0.0\obj\Debug\MultiKnapsack.application
+C:\Users\Paweł Czarnecki\Desktop\MultiKnapsack_2.0.8 (1)\MultiKnapsack_2.0.0\MultiKnapsack_2.0.0\bin\Debug\MultiKnapsack.exe.config
+C:\Users\Paweł Czarnecki\Desktop\MultiKnapsack_2.0.8 (1)\MultiKnapsack_2.0.0\MultiKnapsack_2.0.0\obj\Debug\MultiKnapsack.exe
+C:\Users\Paweł Czarnecki\Desktop\MultiKnapsack_2.0.8 (1)\MultiKnapsack_2.0.0\MultiKnapsack_2.0.0\obj\Debug\MultiKnapsack.pdb
+C:\Users\Paweł Czarnecki\Desktop\MultiKnapsack_2.0.8 (1)\MultiKnapsack_2.0.0\MultiKnapsack_2.0.0\bin\Debug\MultiKnapsack.exe.manifest
+C:\Users\Paweł Czarnecki\Desktop\MultiKnapsack_2.0.8 (1)\MultiKnapsack_2.0.0\MultiKnapsack_2.0.0\bin\Debug\MultiKnapsack.application
+C:\Users\Paweł Czarnecki\Desktop\MultiKnapsack_2.0.8 (1)\MultiKnapsack_2.0.0\MultiKnapsack_2.0.0\bin\Debug\MultiKnapsack.exe
+C:\Users\Paweł Czarnecki\Desktop\MultiKnapsack_2.0.8 (1)\MultiKnapsack_2.0.0\MultiKnapsack_2.0.0\bin\Debug\MultiKnapsack.pdb
+C:\Users\Paweł Czarnecki\Desktop\MultiKnapsack_2.0.8 (1)\MultiKnapsack_2.0.0\MultiKnapsack_2.0.0\obj\Debug\MultiKnapsack.csprojResolveAssemblyReference.cache
+C:\Users\Paweł Czarnecki\Desktop\MultiKnapsack_2.0.8 (1)\MultiKnapsack_2.0.0\MultiKnapsack_2.0.0\obj\Debug\MultiKnapsack.Form1.resources
+C:\Users\Paweł Czarnecki\Desktop\MultiKnapsack_2.0.8 (1)\MultiKnapsack_2.0.0\MultiKnapsack_2.0.0\obj\Debug\MultiKnapsack.Form2.resources
+C:\Users\Paweł Czarnecki\Desktop\MultiKnapsack_2.0.8 (1)\MultiKnapsack_2.0.0\MultiKnapsack_2.0.0\obj\Debug\MultiKnapsack.Form3.resources
+C:\Users\Paweł Czarnecki\Desktop\MultiKnapsack_2.0.8 (1)\MultiKnapsack_2.0.0\MultiKnapsack_2.0.0\obj\Debug\MultiKnapsack.Properties.Resources.resources
+C:\Users\Paweł Czarnecki\Desktop\MultiKnapsack_2.0.8 (1)\MultiKnapsack_2.0.0\MultiKnapsack_2.0.0\obj\Debug\MultiKnapsack.csproj.GenerateResource.Cache
+C:\Users\Paweł Czarnecki\Desktop\MultiKnapsack_2.0.8 (1)\MultiKnapsack_2.0.0\MultiKnapsack_2.0.0\obj\Debug\MultiKnapsack.exe.manifest
+C:\Users\Paweł Czarnecki\Desktop\MultiKnapsack_2.0.8 (1)\MultiKnapsack_2.0.0\MultiKnapsack_2.0.0\obj\Debug\MultiKnapsack.application
+C:\Users\Paweł Czarnecki\Desktop\MultiKnapsack_2.0.8 (1)\MultiKnapsack_2.0.0\MultiKnapsack_2.0.0\obj\Debug\MultiKnapsack.Form4.resources
+C:\Users\Michał\Desktop\MultiKnapsack_2.0.0\MultiKnapsack_2.0.0\bin\Debug\MultiKnapsack.exe.config
+C:\Users\Michał\Desktop\MultiKnapsack_2.0.0\MultiKnapsack_2.0.0\obj\Debug\MultiKnapsack.exe
+C:\Users\Michał\Desktop\MultiKnapsack_2.0.0\MultiKnapsack_2.0.0\obj\Debug\MultiKnapsack.pdb
+C:\Users\Michał\Desktop\MultiKnapsack_2.0.0\MultiKnapsack_2.0.0\bin\Debug\MultiKnapsack.exe.manifest
+C:\Users\Michał\Desktop\MultiKnapsack_2.0.0\MultiKnapsack_2.0.0\bin\Debug\MultiKnapsack.application
+C:\Users\Michał\Desktop\MultiKnapsack_2.0.0\MultiKnapsack_2.0.0\bin\Debug\MultiKnapsack.exe
+C:\Users\Michał\Desktop\MultiKnapsack_2.0.0\MultiKnapsack_2.0.0\bin\Debug\MultiKnapsack.pdb
+C:\Users\Michał\Desktop\MultiKnapsack_2.0.0\MultiKnapsack_2.0.0\obj\Debug\MultiKnapsack.csprojResolveAssemblyReference.cache
+C:\Users\Michał\Desktop\MultiKnapsack_2.0.0\MultiKnapsack_2.0.0\obj\Debug\MultiKnapsack.Form1.resources
+C:\Users\Michał\Desktop\MultiKnapsack_2.0.0\MultiKnapsack_2.0.0\obj\Debug\MultiKnapsack.Form2.resources
+C:\Users\Michał\Desktop\MultiKnapsack_2.0.0\MultiKnapsack_2.0.0\obj\Debug\MultiKnapsack.Form3.resources
+C:\Users\Michał\Desktop\MultiKnapsack_2.0.0\MultiKnapsack_2.0.0\obj\Debug\MultiKnapsack.Properties.Resources.resources
+C:\Users\Michał\Desktop\MultiKnapsack_2.0.0\MultiKnapsack_2.0.0\obj\Debug\MultiKnapsack.csproj.GenerateResource.Cache
+C:\Users\Michał\Desktop\MultiKnapsack_2.0.0\MultiKnapsack_2.0.0\obj\Debug\MultiKnapsack.exe.manifest
+C:\Users\Michał\Desktop\MultiKnapsack_2.0.0\MultiKnapsack_2.0.0\obj\Debug\MultiKnapsack.application

@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="MultiKnapsack.exe" version="1.0.0.3" publicKeyToken="53962744c4d3e3d4" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="backpack.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="MultiKnapsack" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="MultiKnapsack.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MultiKnapsack.exe" size="30696">
+      <assemblyIdentity name="MultiKnapsack" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>4ZsSlCzFYnHog5g3WA4OVZP6y58xmB//4y4EsgSEM1w=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="backpack.ico" size="1150">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>apM1Ua8a+KlbUwOt5ZnHD9PNTZLAgCtWxOvReoTEW2E=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="MultiKnapsack.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>6N7MliNbVJSIAIPrecIshMbZ7zEoKLr5SQvud4LDUOw=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=DESKTOP-HM2UMBN\Michał" issuerKeyHash="cb64e30de056c978370c0f86313214417b82c6b6" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>f+Op58jKk/f0xGkGl2SpIIB3WnACLcGzJa0/rs7VS+c=</DigestValue></Reference></SignedInfo><SignatureValue>GtYPM7mDepJt+oQIf/ev29IZLZI9ozdi9tXUJsXkaNkRQXmEarSE1NT5TizxMxOxV9QBu/1QsSLXOymo1nitf3d1T+8KZzuQm69jeR+fYewGn2IxKg57G0soFOQm9AMaTk2R19S4txRn1QLS7PdhuZtwjabAT0I4cEo1OX8YEAY=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>xmir1+jghvqsz0+is3gfGL0suo9ArFvTYDq7gR1Dq9l+gvD+VCPSFOtJ+OzrEQahBLWew2rTVuAqSuM6a9zYytB3yMZWpRfm/ciHukcL+rgKWmcty0jKPOmK1Zt7az5imk7sLVddkt+vIniAP7XVfLzyvwMh1OnOIAU/Wxl4Mes=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="e74bd5ceae3fad25b3c12d02705a778020a964970669c4f4f793cac8e7a9e37f" Description="" Url=""><as:assemblyIdentity name="MultiKnapsack.exe" version="1.0.0.3" publicKeyToken="53962744c4d3e3d4" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-HM2UMBN\Michał</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>FB1wHIbKfT13Iu+tAOHc7OnA8jl1K6wQ4iffuXNUd9s=</DigestValue></Reference></SignedInfo><SignatureValue>ByodxrI6F+5jkCxCeIJGRTpYN4G+F1r/KIP9swCf0ODFMvZ7hRGZrQrqk7dDdN5qZXYCav2LIFhn338iLuEFSECNag3WFyukCfK5CWFpUv+btZqEOpv4K8gPGyDQVUSqZZ9IlM4COjeqMuLR5yQ++O/Mfp/dFX9Vr2IodCnRqnM=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>xmir1+jghvqsz0+is3gfGL0suo9ArFvTYDq7gR1Dq9l+gvD+VCPSFOtJ+OzrEQahBLWew2rTVuAqSuM6a9zYytB3yMZWpRfm/ciHukcL+rgKWmcty0jKPOmK1Zt7az5imk7sLVddkt+vIniAP7XVfLzyvwMh1OnOIAU/Wxl4Mes=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB8TCCAVqgAwIBAgIQJoUGU1Yi/LNLOiAM15l8pTANBgkqhkiG9w0BAQsFADA3MTUwMwYDVQQDHiwARABFAFMASwBUAE8AUAAtAEgATQAyAFUATQBCAE4AXABNAGkAYwBoAGEBQjAeFw0xNjA5MDExNTQ5NDFaFw0xNzA5MDEyMTQ5NDFaMDcxNTAzBgNVBAMeLABEAEUAUwBLAFQATwBQAC0ASABNADIAVQBNAEIATgBcAE0AaQBjAGgAYQFCMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDGaKvX6OCG+qzPT6KzeB8YvSy6j0CsW9NgOruBHUOr2X6C8P5UI9IU60n47OsRBqEEtZ7DatNW4CpK4zpr3NjK0HfIxlalF+b9yIe6Rwv6uApaZy3LSMo86YrVm3trPmKaTuwtV12S368ieIA/tdV8vPK/AyHU6c4gBT9bGXgx6wIDAQABMA0GCSqGSIb3DQEBCwUAA4GBAB7BGXJ504vQzy82l+HCUOJvjYFwJyt58kIWSDbxnMYRzGBgRYCwe7H+zNQzxSHWLTAnlyZzwQ47CHNqpPEfN9fU6Q03ok9RDDdwrKQC0FRLz4z4GAvJUCLhoVbQd5pz+DoOE4T7chOJBeJu77OOIhmHD7DDPVWvhpfjaaFgTjm7</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
