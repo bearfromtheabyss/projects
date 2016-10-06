@@ -1,0 +1,248 @@
+@charset "utf-8";
+/*
+	Theme Name: RafalKruszka
+	Author: Paweł Szeląg, SCPROJECTS
+	Author URI: http://scprojects.pl
+	Description: Minimalistyczny template na potrzeby strony Rafała Kruszki
+	License: GNU General Public License v2 or later
+	License URI: http://www.gnu.org/licenses/gpl-2.0.html
+*/
+
+/* RESTART CSS */
+
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+
+
+
+/* COMMON */
+
+strong{
+	font-weight: bold;
+}
+
+h1{
+	font-size: 125%;
+	font-weight: bold;
+}
+
+div, section, nav{
+	border: 0px solid red !important;
+}
+
+body{
+	font-family: 'Arial', sans-serif;
+	font-size: 12px;
+}
+
+/* HEADER */
+
+header{
+	position: absolute;
+	left: 50px;
+	top: 50px;
+	width: 200px;
+	height: 100%;
+}
+
+header .logo{
+	width: 150px;
+	height: 155px; /* WYSOKOŚĆ KONTENERA Z LOGOTYPEM */
+}
+
+header .logo img{
+	position: relative;
+	left: -10px;
+	max-width: 150px;
+	max-height: auto;
+}
+
+/* NAV */
+
+nav a{
+	text-decoration: none;
+	text-transform: uppercase;
+	/*letter-spacing: -1px;*/
+	color: #4E4E4E;
+	font-size: 10px;
+	line-height: 135%;
+	letter-spacing: -0.76px;
+}
+
+nav a:hover{
+	color:  #272727;
+}
+
+nav .current-menu-item a{
+	font-weight: bold;
+	color: #272727;
+}
+
+nav .sub-menu{
+	/* 	margin-left: 10px; */
+	color: #7f7f7f;
+}
+
+nav .sub-menu a{
+	color: inherit;
+}
+
+.menu-item-270, .menu-item-271{
+	margin-top: 25px;
+}
+
+.menu-item-272, .menu-item-271{
+	margin-top: 55px;
+}
+
+#menu-item-269 > a, #menu-item-270 > a, #menu-item-272 > a{
+	cursor: default !important;	
+}
+
+/* SECTION */
+
+section.content{
+	position: absolute;	
+	top: 50px;
+	height: 100%;
+	font-size: 9px;
+	line-height: 150%;
+	text-transform: uppercase;
+}
+
+section.content#left{
+	left: 280px;
+	width: 750px;
+}
+
+section.content#right{
+	left: 1100px;
+	width: 300px;
+}
+
+section.content p, h1, h2, h3{
+	display: block;
+	margin-bottom: 10px;
+}
+
+.content p strong{
+	color: #4E4E4E;
+}
+
+.content p{
+	color: #7f7f7f;
+}
+
+section.content iframe{
+	margin-bottom: 30px !important;
+}
+
+
+
+/* MOODY */
+
+.image_browser_images_conteiner_0, .bwg_image_browser_image_0 {
+    background-color: #FFF !important;
+}
+
+a.first-page, a.last-page-0, a.first-page-0, a.last-page{
+	display: none !important;
+}
+
+.tablenav-pages_0 {
+	text-transform: lowercase;
+}
+
+a.prev-page.disabled, a.next-page.disabled{
+	color: #D1D1D1 !important;
+}
+
+.image_browser_images_conteiner_0{
+	padding: 0px !important; 
+}
+
+.bwg_image_browser_image_alt_0{
+	display: none !important;
+}
+
+.bwg_image_browser_image_0{
+	padding: 0px !important;
+	margin: 0px !important;
+}
+
+.pagination-links_0{
+	display: block !important;
+	text-align: left !important;
+}
+
+.tablenav-pages_0 a{
+	padding: 0 2% !important;	
+}
+
+.paging-input_0{
+	margin: 0 !important;
+	position: relative;
+	left: 40px;
+}
+
+.next-page-0, .next-page.disabled{
+	position: relative;
+	left: -45px;
+}
+
+.bwg_image_browser_img_0{
+	max-height: 480px !important;
+	width: auto !important;
+	float: left !important;
+}
+
+.bwg_image_browser_image_desp_0{
+	display: none !important;
+}
