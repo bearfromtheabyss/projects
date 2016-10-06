@@ -1,0 +1,16 @@
+
+<ion-view view-title="Edit Page">
+	<ion-content>
+		<div class="list card">
+			<div class="item item-input">
+				<input placeholder="Title" type="text" ng-model="note.title"/>
+			</div>
+			<div class="item item-input">
+				<textarea placeholder="Description" rows="5" ng-model="note.desc">{{note.desc}}</textarea>
+			</div>
+		</div>
+		<div class="padding">
+			<button class="button button-block button-positive" ng-click="save()"> Save</button>
+		</div>
+	</ion-content>
+</ion-view>
