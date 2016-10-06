@@ -1,0 +1,12 @@
+﻿  GameEngine.cpp
+c:\users\michał\documents\visual studio 2015\projects\pentago\pentago\gameengine.cpp(12): warning C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(475): note: see declaration of 'ctime'
+c:\users\michał\documents\visual studio 2015\projects\pentago\pentago\gameengine.cpp(35): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1266): note: see declaration of '_sleep'
+c:\users\michał\documents\visual studio 2015\projects\pentago\pentago\gameengine.cpp(41): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\michał\documents\visual studio 2015\projects\pentago\pentago\gameengine.cpp(301): warning C4101: 'wyborwczyt': unreferenced local variable
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  Plansza.cpp
+  Gracze.cpp
+  pentago.vcxproj -> C:\Users\Michał\Documents\Visual Studio 2015\Projects\pentago\Debug\pentago.exe
