@@ -2,7 +2,7 @@
 Those are my all recent projects, including assignments on uni or just playing with code.
 
 # Websites
-www.tooni.pl
-www.skyad.pl
-www.gres-bud.pl
-www.rafalkruszka.pl
+<li> www.tooni.pl </li>
+<li>www.skyad.pl</li>
+<li>www.gres-bud.pl</li>
+<li>www.rafalkruszka.pl</li>
