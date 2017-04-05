@@ -1,0 +1,5 @@
+﻿  text_organizer.cpp
+c:\users\michał\documents\visual studio 2015\projects\text_organizer\text_organizer\text_organizer.cpp(8): warning C4018: '<': signed/unsigned mismatch
+c:\users\michał\documents\visual studio 2015\projects\text_organizer\text_organizer\text_organizer.cpp(39): warning C4101: 'wsk': unreferenced local variable
+  text_organizer.vcxproj -> c:\users\michał\documents\visual studio 2015\Projects\text_organizer\Debug\text_organizer.exe
+  text_organizer.vcxproj -> c:\users\michał\documents\visual studio 2015\Projects\text_organizer\Debug\text_organizer.pdb (Partial PDB)
